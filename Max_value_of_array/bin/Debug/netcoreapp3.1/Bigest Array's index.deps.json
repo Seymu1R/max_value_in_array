@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Bigest Array's index/1.0.0": {
+        "runtime": {
+          "Bigest Array's index.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bigest Array's index/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

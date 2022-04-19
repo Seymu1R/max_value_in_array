@@ -1,0 +1,14 @@
+C:\Users\Seymur\Desktop\C_SHARP projects\Bigest's Array index\Bigest Array's index\Bigest Array's index\bin\Debug\netcoreapp3.1\Bigest Array's index.exe
+C:\Users\Seymur\Desktop\C_SHARP projects\Bigest's Array index\Bigest Array's index\Bigest Array's index\bin\Debug\netcoreapp3.1\Bigest Array's index.deps.json
+C:\Users\Seymur\Desktop\C_SHARP projects\Bigest's Array index\Bigest Array's index\Bigest Array's index\bin\Debug\netcoreapp3.1\Bigest Array's index.runtimeconfig.json
+C:\Users\Seymur\Desktop\C_SHARP projects\Bigest's Array index\Bigest Array's index\Bigest Array's index\bin\Debug\netcoreapp3.1\Bigest Array's index.runtimeconfig.dev.json
+C:\Users\Seymur\Desktop\C_SHARP projects\Bigest's Array index\Bigest Array's index\Bigest Array's index\bin\Debug\netcoreapp3.1\Bigest Array's index.dll
+C:\Users\Seymur\Desktop\C_SHARP projects\Bigest's Array index\Bigest Array's index\Bigest Array's index\bin\Debug\netcoreapp3.1\Bigest Array's index.pdb
+C:\Users\Seymur\Desktop\C_SHARP projects\Bigest's Array index\Bigest Array's index\Bigest Array's index\obj\Debug\netcoreapp3.1\Bigest Array's index.csproj.AssemblyReference.cache
+C:\Users\Seymur\Desktop\C_SHARP projects\Bigest's Array index\Bigest Array's index\Bigest Array's index\obj\Debug\netcoreapp3.1\Bigest Array's index.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seymur\Desktop\C_SHARP projects\Bigest's Array index\Bigest Array's index\Bigest Array's index\obj\Debug\netcoreapp3.1\Bigest Array's index.AssemblyInfoInputs.cache
+C:\Users\Seymur\Desktop\C_SHARP projects\Bigest's Array index\Bigest Array's index\Bigest Array's index\obj\Debug\netcoreapp3.1\Bigest Array's index.AssemblyInfo.cs
+C:\Users\Seymur\Desktop\C_SHARP projects\Bigest's Array index\Bigest Array's index\Bigest Array's index\obj\Debug\netcoreapp3.1\Bigest Array's index.csproj.CoreCompileInputs.cache
+C:\Users\Seymur\Desktop\C_SHARP projects\Bigest's Array index\Bigest Array's index\Bigest Array's index\obj\Debug\netcoreapp3.1\Bigest Array's index.dll
+C:\Users\Seymur\Desktop\C_SHARP projects\Bigest's Array index\Bigest Array's index\Bigest Array's index\obj\Debug\netcoreapp3.1\Bigest Array's index.pdb
+C:\Users\Seymur\Desktop\C_SHARP projects\Bigest's Array index\Bigest Array's index\Bigest Array's index\obj\Debug\netcoreapp3.1\Bigest Array's index.genruntimeconfig.cache
